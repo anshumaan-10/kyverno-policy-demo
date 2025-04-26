@@ -1,5 +1,3 @@
----
-```markdown
 # 🛡️ Kubernetes Security Hardening Lab
 
 This repository demonstrates how to harden a Kubernetes cluster using **Kyverno**, **Falco**, and **RBAC** controls. The objective of this project is to implement security best practices by:
